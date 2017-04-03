@@ -1,0 +1,739 @@
+Wagon R 1.0 VXi AMT Technical Specs
+Dimensions & Weight 
+
+Length
+3599 mm
+
+
+Width
+1495 mm
+
+
+Height
+1700 mm
+
+
+Wheelbase
+2400 mm
+
+
+Ground Clearance
+165 mm
+
+
+Kerb Weight
+890 kg
+
+Capacity 
+
+Doors
+5 Doors
+
+
+Seating Capacity
+5 Person
+
+
+No of Seating Rows
+2 Rows
+
+
+Bootspace
+180 litres
+
+
+Fuel Tank Capacity
+35 litres
+
+Engine & Transmission
+
+Engine Type
+K10B 
+
+
+Valve/Cylinder (Configuration)
+4, SOHC 
+
+
+Displacement
+998 cc
+
+
+Mileage (ARAI)
+20.5 kmpl
+
+
+Turbocharger/Supercharger
+No 
+
+
+Drivetrain
+Front Wheel Drive 
+
+
+Dual Clutch
+No 
+
+
+Sport Mode
+No 
+
+
+Alternate Fuel
+Not Applicable 
+
+
+Cylinders
+3, Inline 
+
+
+Fuel Type
+Petrol 
+
+
+Max Power (bhp@rpm)
+67 bhp @ 6200 RPM 
+
+
+Max Torque (Nm@rpm)
+90 Nm @ 3500 RPM 
+
+
+Turbocharger Type
+No 
+
+
+No of gears
+5 Gears
+
+
+Transmission Type
+Automatic 
+
+
+Manual Shifting for Automatic
+No 
+
+
+Driving Modes
+No 
+
+
+Engine Start-Stop Function
+No 
+
+Suspensions, Brakes & Steering  
+
+Suspension Front
+Mc Pherson Strut with coil spring 
+
+
+Suspension Rear
+Isolated trailing link with coil spring 
+
+
+Front Brake Type
+Disc 
+
+
+Rear Brake Type
+Drum 
+
+
+Minimum Turning Radius
+4.6 metres
+
+
+Steering Type
+Power assisted (Electric) 
+
+Wheels & Tyres
+
+Wheels
+Steel Rims 
+
+
+Spare Wheel
+Steel 
+
+
+Front Tyres
+155 / 65 R14 
+
+
+Rear Tyres
+155 / 65 R14 
+
+Wagon R 1.0 VXi AMT Standard Features
+
+Safety
+
+
+
+Airbags
+No 
+
+
+Dual-Stage Airbags
+No 
+
+
+Middle rear three-point seatbelt
+No 
+
+
+Middle Rear Head Rest
+No 
+
+
+Tyre Pressure Monitoring System (TPMS)
+No 
+
+
+Child Seat Anchor Points
+No 
+
+
+Seat Belt Warning
+Yes 
+
+
+Braking & Traction
+
+
+
+Anti-Lock Braking System (ABS)
+No 
+
+
+Electronic Brake-force Distribution (EBD)
+No 
+
+
+Brake Assist (BA)
+No 
+
+
+Electronic Stability Program (ESP)
+No 
+
+
+Four-Wheel-Drive
+No 
+
+
+Hill Hold Control
+No 
+
+
+Traction Control System (TC/TCS)
+No 
+
+
+Ride Height Adjustment
+No 
+
+
+Hill Descent Control
+No 
+
+
+Limited Slip Differential (LSD)
+No 
+
+
+Differential Lock
+No 
+
+
+Locks & Security
+
+
+
+Engine immobilizer
+Yes 
+
+
+Central Locking
+Remote 
+
+
+Speed Sensing Door Lock
+Yes 
+
+
+Child Safety Lock
+Yes 
+
+
+Comfort & Convenience
+
+
+
+Air Conditioner
+Manual 
+
+
+Rear AC
+No 
+
+
+12V Power Outlets
+1 
+
+
+Steering Adjustment
+Tilt 
+
+
+Keyless Start/ Button Start
+No 
+
+
+Headlight off and lgnition Key Off Reminder
+Yes 
+
+
+Cruise Control
+No 
+
+
+Parking Sensors
+No 
+
+
+Parking Assist
+No 
+
+
+Anti-glare Mirrors
+Manual - Internal Only 
+
+
+Vanity Mirrors on Sun Visors
+Co-Driver Only 
+
+
+Heater
+Yes 
+
+
+Cabin-Boot Access
+No 
+
+
+Seats & Upholstery
+
+
+
+Seat Upholstery
+Fabric 
+
+
+Leather-wrapped Steering Wheel
+No 
+
+
+Leather-wrapped Gear Knob
+No 
+
+
+Driver Seat Adjustment
+Manual 
+
+
+Head-rests
+Front & Rear 
+
+
+Front Passenger Seat Adjustment
+Manual 
+
+
+Lumbar Support
+No 
+
+
+Adjustable Lumbar Support
+No 
+
+
+Driver Armrest
+No 
+
+
+Rear Passenger Seats
+Bench 
+
+
+Rear Passenger Adjustable seats
+No 
+
+
+3rd Row Seats
+No 
+
+
+3rd Row Seat Adjustment
+No 
+
+
+Ventilated Seats
+No 
+
+
+Ventilated Seat Type
+No 
+
+
+Interiors
+Dual Tone 
+
+
+Interior Colours
+Beige and Black 
+
+
+Rear Armrest
+No 
+
+
+Folding Rear Seat
+Partial 
+
+
+Split Rear Seat
+60:40 split 
+
+
+Split Third Row Seat
+No 
+
+
+Front Seat Pockets
+Yes 
+
+
+Adjustable Head-rests
+Front & Rear 
+
+
+Electrically Adjustable Headrests
+No 
+
+
+Storage
+
+
+
+Cup Holders
+Front & Rear 
+
+
+Driver Armrest Storage
+No 
+
+
+Cooled Glove Box 
+No 
+
+
+Sunglass Holder
+No 
+
+
+Third Row Cup Holders
+No 
+
+
+Doors, Windows, Mirrors & Wipers
+
+
+
+One Touch -Down
+Driver 
+
+
+One Touch - Up
+No 
+
+
+Power Windows
+Front & Rear 
+
+
+Outside Rear View Mirrors (ORVMs)
+Body Coloured 
+
+
+Adjustable ORVM
+Electrically Adjustable 
+
+
+Turn Indicators on ORVM
+No 
+
+
+Rear Defogger
+Yes 
+
+
+Rear Wiper
+Yes 
+
+
+Exterior Door Handles
+Body Coloured 
+
+
+Interior Door Handles
+Painted 
+
+
+Rain-sensing Wipers
+No 
+
+
+Door Pockets
+Front & Rear 
+
+
+Door Blinds
+No 
+
+
+Rear Window Blind
+No 
+
+
+Boot-lid Opener
+Internal with Remote 
+
+
+Exterior
+
+
+
+Sunroof / Moonroof
+No 
+
+
+Roof rails
+Yes 
+
+
+Roof Mounted Antenna
+No 
+
+
+Body-Coloured  Bumpers 
+Yes 
+
+
+Chrome Finish Exhaust pipe
+No 
+
+
+Body Kit
+No 
+
+
+Rub - Strips
+Black 
+
+
+Lighting
+
+
+
+Cornering Headlights
+No 
+
+
+Headlamps
+Conventional 
+
+
+Automatic Head Lamps
+No 
+
+
+Follow me home headlamps
+No 
+
+
+Daytime Running Lights
+No 
+
+
+Fog Lamps
+Front & Rear 
+
+
+Tail Lamps
+Conventional 
+
+
+Cabin Lamps
+Front 
+
+
+Headlight Height Adjuster
+Yes 
+
+
+Glove Box Lamp
+No 
+
+
+Lights on Vanity Mirrors
+No 
+
+
+Rear Reading Lamp
+No 
+
+
+Instrumentation
+
+
+
+Instrument Cluster
+Analog 
+
+
+Trip Meter
+Electronic 2 Trips 
+
+
+Average Fuel Consumption
+No 
+
+
+Average Speed
+No 
+
+
+Distance to Empty
+No 
+
+
+Clock
+Digital 
+
+
+Low Fuel Level Warning
+Yes 
+
+
+Door Ajar Warning
+Yes 
+
+
+Adjustable Cluster Brightness
+No 
+
+
+Gear Indicator
+No 
+
+
+Shift Indicator
+No 
+
+
+Heads Up Display (HUD)
+No 
+
+
+Tachometer
+Analog 
+
+
+Instantaneous Consumption
+No 
+
+
+Entertainment, Information & Communication
+
+
+
+Integrated (in-dash) Music System
+Yes 
+
+
+Head Unit Size
+2 Din 
+
+
+Display
+No 
+
+
+Display Screen for Rear Passengers
+No 
+
+
+GPS Navigation System
+No 
+
+
+Speakers
+4 
+
+
+USB Compatibility
+Yes 
+
+
+Aux Compatibility
+Yes 
+
+
+Bluetooth Compatibility
+No 
+
+
+MP3 Playback
+Yes 
+
+
+CD Player
+Yes 
+
+
+DVD Playback
+No 
+
+
+AM/FM Radio
+Yes 
+
+
+iPod Compatibility
+No 
+
+
+Internal Hard-drive
+No 
+
+
+Steering mounted controls
+No 
+
+
+Voice Command
+No 
+
+
+Manufacturer Warranty
+
+
+
+Warranty (Years)
+2 
+
+
+Warranty (Kilometres)
+40000 
+
