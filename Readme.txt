@@ -1,6 +1,6 @@
 I have integrated a crawler with the web scraper so that the data of every model of the car is downloaded.
 
-To run the script goto the desired folder and type on terminal the followling command
+To run the script goto the desired folder and type on terminal the following command
 python3 internship.py
 
 
